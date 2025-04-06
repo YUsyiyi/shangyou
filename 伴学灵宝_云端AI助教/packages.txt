@@ -1,0 +1,10 @@
+ffmpeg
+build-essential
+python3-dev
+libgdal-dev
+gdal-bin
+libmysqlclient-dev
+libgl1
+libglib2.0-0
+libsm6
+libxext6
